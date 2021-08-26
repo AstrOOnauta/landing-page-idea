@@ -47,15 +47,15 @@ export default function Advantages(){
             <ContainerAdvantages>
                 <Advantage data-aos="fade-right">
                     <AdvantageName data-aos="fade-right">Benefício 1</AdvantageName>
-                    <AdvantageIcon><i class="fa fa-handshake-o"></i></AdvantageIcon>
+                    <AdvantageIcon><i className="fa fa-handshake-o"></i></AdvantageIcon>
                 </Advantage>
                 <Advantage data-aos="zoom-in">
                     <AdvantageName data-aos="zoom-in">Benefício 2</AdvantageName>
-                    <AdvantageIcon><i class="fa fa-credit-card-alt"></i></AdvantageIcon>
+                    <AdvantageIcon><i className="fa fa-credit-card-alt"></i></AdvantageIcon>
                 </Advantage>
                 <Advantage data-aos="fade-left">
                     <AdvantageName data-aos="fade-left">Benefício 3</AdvantageName>
-                    <AdvantageIcon><i class="fa fa-calendar-check-o"></i></AdvantageIcon>
+                    <AdvantageIcon><i className="fa fa-calendar-check-o"></i></AdvantageIcon>
                 </Advantage>
             </ContainerAdvantages>
         </MainAdvantages>

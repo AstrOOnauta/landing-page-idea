@@ -62,7 +62,7 @@ export default function Courses(){
             <PresentationCourses>O que vou aprender?</PresentationCourses>
             <ContainerCourses>
                 <Course data-aos="fade-right">
-                    <CourseIcon data-aos="fade-right"><i class="fa fa-bar-chart-o"></i></CourseIcon>
+                    <CourseIcon data-aos="fade-right"><i className="fa fa-bar-chart-o"></i></CourseIcon>
                     <CourseName>Básico (20h)</CourseName>
                     <ul>
                         <TextCourse>Lorem ipsum dolor sit amet consectetur adipisicing elit. Rem beatae recusandae voluptatem.</TextCourse>
@@ -71,7 +71,7 @@ export default function Courses(){
                     </ul>
                 </Course>
                 <Course data-aos="zoom-in">
-                    <CourseIcon data-aos="zoom-in"><i class="fa fa-balance-scale"></i></CourseIcon>
+                    <CourseIcon data-aos="zoom-in"><i className="fa fa-balance-scale"></i></CourseIcon>
                     <CourseName>Intermediário (40h)</CourseName>
                     <ul>
                         <TextCourse>Lorem ipsum dolor sit amet consectetur adipisicing elit. Rem beatae recusandae voluptatem.</TextCourse>
@@ -80,7 +80,7 @@ export default function Courses(){
                     </ul>
                 </Course>
                 <Course data-aos="fade-left">
-                    <CourseIcon data-aos="fade-left"><i class="fa fa-gears"></i></CourseIcon>
+                    <CourseIcon data-aos="fade-left"><i className="fa fa-gears"></i></CourseIcon>
                     <CourseName>Avançado (80h)</CourseName>
                     <ul>
                         <TextCourse>Lorem ipsum dolor sit amet consectetur adipisicing elit. Rem beatae recusandae voluptatem.</TextCourse>

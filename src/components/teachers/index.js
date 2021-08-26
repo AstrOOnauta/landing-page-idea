@@ -64,7 +64,7 @@ export default function Teachers(){
             <PresentationTeachers>Com quem vou aprender?</PresentationTeachers>
             <ContainerTeachers>
                 <Teacher data-aos="fade-up">
-                    <TeacherIcon data-aos="zoom-in"><i class="fa fa-user-circle"></i></TeacherIcon>
+                    <TeacherIcon data-aos="zoom-in"><i className="fa fa-user-circle"></i></TeacherIcon>
                     <TeacherName>Professor 1</TeacherName>
                     <ul>
                         <TextTeacher>Lorem ipsum dolor sit amet consectetur adipisicing elit. Rem beatae recusandae voluptatem. </TextTeacher>
@@ -73,7 +73,7 @@ export default function Teachers(){
                     </ul>
                 </Teacher>
                 <Teacher data-aos="fade-up">
-                    <TeacherIcon data-aos="zoom-in"><i class="fa fa-user-circle"></i></TeacherIcon>
+                    <TeacherIcon data-aos="zoom-in"><i className="fa fa-user-circle"></i></TeacherIcon>
                     <TeacherName>Professor 2</TeacherName>
                     <ul>
                         <TextTeacher>Lorem ipsum dolor sit amet consectetur adipisicing elit. Rem beatae recusandae voluptatem. </TextTeacher>
@@ -82,7 +82,7 @@ export default function Teachers(){
                     </ul>
                 </Teacher>
                 <Teacher data-aos="fade-up">
-                    <TeacherIcon data-aos="zoom-in"><i class="fa fa-user-circle"></i></TeacherIcon>
+                    <TeacherIcon data-aos="zoom-in"><i className="fa fa-user-circle"></i></TeacherIcon>
                     <TeacherName>Professor 3</TeacherName>
                     <ul>
                         <TextTeacher>Lorem ipsum dolor sit amet consectetur adipisicing elit. Rem beatae recusandae voluptatem. </TextTeacher>
